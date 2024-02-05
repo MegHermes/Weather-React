@@ -1,3 +1,4 @@
+FILES "APP RUNNING 1" AND "APP RUNNING 2" ARE IMAGE FILES OF WHAT THE APP LOOKS LIKE WHEN IT RUNS.
 # Weather app
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
