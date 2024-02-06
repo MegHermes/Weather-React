@@ -1,4 +1,5 @@
-FILES "APP RUNNING 1" AND "APP RUNNING 2" ARE IMAGE FILES OF WHAT THE APP LOOKS LIKE WHEN IT RUNS.
+https://github.com/MegHermes/Weather-React/blob/main/App%20Running%202.png?raw=true![image](https://github.com/MegHermes/Weather-React/assets/68392405/f533b3d4-7e41-47ba-a536-ff0ba4380282)
+
 # Weather app
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
