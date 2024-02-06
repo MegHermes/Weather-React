@@ -1,4 +1,7 @@
-https://github.com/MegHermes/Weather-React/blob/main/App%20Running%202.png?raw=true![image](https://github.com/MegHermes/Weather-React/assets/68392405/f533b3d4-7e41-47ba-a536-ff0ba4380282)
+
+<img width="1440" alt="App Running1" src="https://github.com/MegHermes/Weather-React/assets/68392405/f371d9ed-8457-41de-b9a6-29e33e63fd84">
+
+<img width="1440" alt="App Running 2" src="https://github.com/MegHermes/Weather-React/assets/68392405/265ea984-c28f-489d-a13b-b7adb043de7a">
 
 # Weather app
 
