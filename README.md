@@ -14,5 +14,5 @@ This project was bootstrapped w/ [Create React App](https://github.com/facebooki
 - Download repo
 - Open Terminal and navigate to the folder (by entering "cd ~/downloads/weather-react")
 - Type "npm start"
-- Program should run and open (http://localhost:3000)
+- Program should run and open http://localhost:3000
 
